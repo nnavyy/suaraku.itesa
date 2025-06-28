@@ -1,5 +1,3 @@
-// src/components/Header.tsx
-
 export default function Header() {
   return (
     <header className="w-full bg-blue-600 text-white px-6 py-4 shadow-md">
